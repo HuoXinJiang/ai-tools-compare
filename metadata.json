@@ -1,0 +1,107 @@
+{
+  "title": "AI Code Editor Comparisons",
+  "description": "Comprehensive comparisons of AI-powered code editors and programming tools",
+  "pages": [
+    {
+      "product1": "Cursor",
+      "product2": "VS Code",
+      "url": "cursor-vs-vscode"
+    },
+    {
+      "product1": "Cursor",
+      "product2": "GitHub Copilot",
+      "url": "cursor-vs-github-copilot"
+    },
+    {
+      "product1": "Cursor",
+      "product2": "JetBrains AI",
+      "url": "cursor-vs-jetbrains-ai"
+    },
+    {
+      "product1": "Cursor",
+      "product2": "Windsurf",
+      "url": "cursor-vs-windsurf"
+    },
+    {
+      "product1": "Windsurf",
+      "product2": "VS Code",
+      "url": "windsurf-vs-vscode"
+    },
+    {
+      "product1": "GitHub Copilot",
+      "product2": "Codeium",
+      "url": "github-copilot-vs-codeium"
+    },
+    {
+      "product1": "Codeium",
+      "product2": "Tabnine",
+      "url": "codeium-vs-tabnine"
+    },
+    {
+      "product1": "Supermaven",
+      "product2": "Cursor",
+      "url": "supermaven-vs-cursor"
+    },
+    {
+      "product1": "Aider",
+      "product2": "Cursor",
+      "url": "aider-vs-cursor"
+    },
+    {
+      "product1": "Zed",
+      "product2": "VS Code",
+      "url": "zed-vs-vscode"
+    },
+    {
+      "product1": "Zed",
+      "product2": "Cursor",
+      "url": "zed-vs-cursor"
+    },
+    {
+      "product1": "IntelliJ IDEA",
+      "product2": "VS Code",
+      "url": "intellij-vs-vscode"
+    },
+    {
+      "product1": "PyCharm",
+      "product2": "VS Code",
+      "url": "pycharm-vs-vscode"
+    },
+    {
+      "product1": "VS Code",
+      "product2": "Sublime Text",
+      "url": "vscode-vs-sublime-text"
+    },
+    {
+      "product1": "Emacs",
+      "product2": "VS Code",
+      "url": "emacs-vs-vscode"
+    },
+    {
+      "product1": "Vim",
+      "product2": "Neovim",
+      "url": "vim-vs-neovim"
+    },
+    {
+      "product1": "Helix",
+      "product2": "Neovim",
+      "url": "helix-vs-neovim"
+    },
+    {
+      "product1": "Nova",
+      "product2": "VS Code",
+      "url": "nova-vs-vscode"
+    },
+    {
+      "product1": "Atom",
+      "product2": "VS Code",
+      "url": "atom-vs-vscode"
+    },
+    {
+      "product1": "Brackets",
+      "product2": "VS Code",
+      "url": "brackets-vs-vscode"
+    }
+  ],
+  "generated": "2026-04-21"
+}
