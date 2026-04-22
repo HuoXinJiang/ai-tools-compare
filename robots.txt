@@ -1,14 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://algea.github.io/ai-tools-compare/sitemap.xml
-
-# 允许所有搜索引擎抓取
-User-agent: Google
-Allow: /
-
-User-agent: Bing
-Allow: /
-
-User-agent: *
-Allow: /
+Sitemap: https://huoxinjiang.github.io/ai-tools-compare/sitemap.xml
